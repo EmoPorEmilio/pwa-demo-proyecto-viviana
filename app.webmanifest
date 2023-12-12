@@ -1,0 +1,7 @@
+{
+  "name": "PWA-Demo Application Long Name",
+  "short_name": "PWA-Demo",
+  "start_url": "./",
+  "orientation": "portrait",
+  "theme_color": "#120054"
+}
