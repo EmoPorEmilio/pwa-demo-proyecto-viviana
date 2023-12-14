@@ -3,5 +3,14 @@
   "short_name": "PWA-Demo",
   "start_url": "./",
   "orientation": "portrait",
-  "theme_color": "#120054"
+  "theme_color": "#120054",
+  "scope": "./",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }
